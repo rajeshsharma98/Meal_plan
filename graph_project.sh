@@ -48,7 +48,7 @@ nw=32
 dim=(16 64 128)
 cluster=(10 74)
 iteration=100
-ax = (2 3)
+ax=(2 3)
 
 # local
 # wl=(2)
