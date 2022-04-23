@@ -31,7 +31,7 @@ echo "## creating adjacency list of graph  ##"
 python3 create_graph.py
 
 # embedding variables
-# walk-length - 30, 90, 256
+# walk-length - 30, 90
 # number-of-walks - 32
 # dimensions - 16, 64, 128
 
@@ -43,7 +43,7 @@ python3 create_graph.py
 # axis - 2D,3D
 
 # carbonate
-wl=(30 90 128)
+wl=(30 90)
 nw=32
 dim=(16 64 128)
 cluster=(10 74)
