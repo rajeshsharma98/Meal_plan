@@ -21,7 +21,7 @@ echo "## creating visualization directory ##"
 mkdir visualization
 
 echo "## installing dependencies ##"
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 echo "## creating standard data ##"
 ## TODO: review standardise code
