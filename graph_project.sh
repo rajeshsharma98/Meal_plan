@@ -43,7 +43,7 @@ python3 create_graph.py
 # axis - 2D,3D
 
 # carbonate
-wl=(30 90 256)
+wl=(30 90 128)
 nw=32
 dim=(16 64 128)
 cluster=(10 74)
