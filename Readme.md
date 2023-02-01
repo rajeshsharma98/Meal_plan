@@ -17,4 +17,4 @@ matplotlib-inline == 0.1.3
 seaborn == 0.11.2  
 [gembed](https://github.com/pranavacharya/graph_embedding) == 1.0.2  
 
-### Published package - [gembed](https://github.com/pranavacharya/graph_embedding)  
+### Created package - [gembed](https://github.com/pranavacharya/graph_embedding)  
